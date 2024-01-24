@@ -43,7 +43,7 @@ const BLOCKS = {
 
 const movingItem = {
   type: "tree",
-  direction: 3,
+  direction: 0,
   top: 0,
   left: 3,
 };
